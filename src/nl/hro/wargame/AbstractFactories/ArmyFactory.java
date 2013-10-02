@@ -7,5 +7,3 @@ import java.util.List;
 public interface ArmyFactory {
     public abstract int trainUnit(int reservesLeft, List<Unit> army);
 }
-
-//hallo
