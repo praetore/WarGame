@@ -1,4 +1,4 @@
-**Over Project Wargame**
+##Project Wargame
 
 Wargame is een text-based strategiespel waarbij twee spelers met elkaar oorlogvoeren met legers uit de Romeinse tijd.
 
