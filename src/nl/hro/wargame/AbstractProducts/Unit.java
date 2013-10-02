@@ -9,6 +9,7 @@ public abstract class Unit {
     protected int defense;
     protected Weapon weapon;
     protected Training specialty;
+    private int health;
 
     public abstract int fight(Strategy s, Player defender);
 }

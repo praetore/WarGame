@@ -11,7 +11,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-import static nl.hro.wargame.Config.Consts.INVALID;
+import static nl.hro.wargame.Config.ConstsBarbarian.INVALID;
 
 public class Player {
     private Army playerArmy;

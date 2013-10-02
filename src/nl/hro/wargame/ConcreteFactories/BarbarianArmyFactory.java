@@ -7,7 +7,7 @@ import nl.hro.wargame.ConcreteProducts.Berserker;
 import nl.hro.wargame.ConcreteProducts.Druid;
 import nl.hro.wargame.ConcreteProducts.WoadRaider;
 
-import static nl.hro.wargame.Config.Consts.INVALID;
+import static nl.hro.wargame.Config.ConstsBarbarian.INVALID;
 
 import java.io.BufferedReader;
 import java.io.IOException;
